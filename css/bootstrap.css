@@ -23,6 +23,7 @@ nav,
 section,
 summary {
   display: block;
+  cursor: pointer;
 }
 
 audio,
